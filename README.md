@@ -1,0 +1,2 @@
+# deepseek_v4_rolepaly_instruct
+对于DeepSeek-V4角色扮演的特殊控制指令的说明
